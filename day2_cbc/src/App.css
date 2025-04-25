@@ -1,0 +1,113 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#nav{
+    height: 70px;
+    width: 100vw;
+    border: solid 2px black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#left{
+    height: 80%;
+    width: 40%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#l1{
+    height: 80%;
+    width: 40%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#l2{
+    height: 80%;
+    width: 40%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#il1{
+    height: 80%;
+    width: 40%;
+    border: solid 2px black;
+}
+#il2{
+    height: 80%;
+    width: 40%;
+    border: solid 2px black;
+}
+
+
+#right{
+    height: 80%;
+    width: 40%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#r1{
+    height: 80%;
+    width: 30%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#r2{
+    height: 80%;
+    width: 30%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#r3{
+    height: 80%;
+    width: 15%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+#ir1{
+    height: 80%;
+    width: 20%;
+    border: solid 2px black;
+}
+#ir2{
+    height: 80%;
+    width: 80%;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#ir2 b{
+    height: 80%;
+    width: 80%;
+    border: solid 2px black;
+
+}
+
+#ir3{
+    height: 80%;
+    width: 80%;
+    border: solid 2px black;
+   
+}
