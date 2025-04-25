@@ -1,0 +1,133 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    color: white;
+    font-family: calibri;
+}
+
+body{
+    background-color: black
+}
+
+#nav{
+    border: solid;
+    width: 100vw;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    gap: 100px;
+    /* justify-content: space-between; */
+}
+
+
+.nb{
+    height: 100%;
+    width: 15%;
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#nbm{
+    width: 50%;
+}
+
+#mf{
+    border: solid green 4px;
+    height: 90vh;
+    display: flex;
+}
+
+#vp{
+    height: 100%;
+    width: 60%;
+    border: purple solid 2px;
+   
+}
+
+#vframe{
+    height: 85vh;
+    width:100% ;
+    border: solid yellow 4px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+#vframe video{
+    height: 70%;
+    width: 90%;
+    border: solid red 4px;
+    /* border-radius: 10px; */
+  
+}
+
+#cad{
+   border: solid whitesmoke 4px;
+   width: 90%;
+   height: 13%;
+   display: flex;
+   align-items: center;
+   gap: 12px;
+   padding-top: 5px;
+}
+
+#cad span{
+    height: 100%;
+    width: 10%;
+    border: solid pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cad span+span{
+    height: 100%;
+    width: 86%;
+    border: solid green;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    /* justify-content: center; */
+   
+}
+#cad span h1{
+    width: 100%;
+    text-align: left;
+    
+}
+
+#clogo{
+  border-radius: 50%;
+}
+
+
+#rvc{
+    height: 90vh;
+    width:30vw ;
+    border: solid red 4px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+
+#rl{
+    border: solid royalblue 4px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2%;
+    padding-left: 7%;
+}
+
+#rl img{
+    height: 190px;
+    width: 94%;
+}
+
