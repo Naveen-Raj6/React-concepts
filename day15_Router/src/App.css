@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#main{
+    height: 95.4vh;
+    border: solid;
+    width: 100vw;
+   
+}
+#headSection{
+    
+    /* border: 1px solid blue; */
+    height: 60px;
+    background: blanchedalmond;
+    width: 100vw;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align:center;
+
+}
+
+.link{
+    text-decoration: none;
+    /* border: solid; */
+    color: black;
+    text-align: center;
+}
+
+.link:focus{
+    color: aqua;
+}
+.link:hover{
+    /* color: red; */
+    cursor: pointer;
+}
+
+
+#out{
+    border: 1px solid red;
+    height: 85vh;
+    width: 100vw;
+
+} 
