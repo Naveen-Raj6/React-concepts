@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+#box{
+    height: 40vh;
+    width: 20vw;
+    border: 4px solid burlywood;
+}
